@@ -27,4 +27,4 @@ The last feature is you can change the background preview by uploading a image a
 
 ## Acknowledgements
 
-This project was inspired by [Stack Learner](https://stacklearner.com/) Web Boost course by HM Nayeem
+This project was inspired by [Stack Learner](https://stacklearner.com/) Web Boost course by HM Nayem
