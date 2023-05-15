@@ -6,6 +6,10 @@ This is a color picker JavaScript project that allows users to select a color fr
 
 To use this project, simply clone the repository to your local machine and open the `index.html` file in your web browser.
 
+## Demo
+
+You can see a live demo of the application by [click here](https://colors-picker-project.netlify.app/)
+
 ### Prerequisites
 
 This project requires a modern web browser that supports HTML5, CSS3, and JavaScript.
